@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dev\\.nuget\\packages\\": {}
+    "C:\\Users\\AJIT BHOLE\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dev\\source\\repos\\MyFirstConsoleApp\\MyFirstConsoleApp\\MyFirstConsoleApp.csproj",
+      "projectUniqueName": "D:\\TegaTrain\\Projects\\GitclonedProject\\FirstDay Learning\\MyFirstConsoleApp\\MyFirstConsoleApp\\MyFirstConsoleApp.csproj",
       "projectName": "MyFirstConsoleApp",
-      "projectPath": "C:\\Users\\Dev\\source\\repos\\MyFirstConsoleApp\\MyFirstConsoleApp\\MyFirstConsoleApp.csproj",
-      "packagesPath": "C:\\Users\\Dev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dev\\source\\repos\\MyFirstConsoleApp\\MyFirstConsoleApp\\obj\\",
+      "projectPath": "D:\\TegaTrain\\Projects\\GitclonedProject\\FirstDay Learning\\MyFirstConsoleApp\\MyFirstConsoleApp\\MyFirstConsoleApp.csproj",
+      "packagesPath": "C:\\Users\\AJIT BHOLE\\.nuget\\packages\\",
+      "outputPath": "D:\\TegaTrain\\Projects\\GitclonedProject\\FirstDay Learning\\MyFirstConsoleApp\\MyFirstConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\AJIT BHOLE\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
